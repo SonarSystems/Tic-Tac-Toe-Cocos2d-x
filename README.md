@@ -10,7 +10,7 @@
   </li>
   
   <li>
-    Cocos Helper Setup
+    Cocos Helper Integration
     <ul>
       <li>C++ - </li>
       <li>JavaScript - </li>
