@@ -10,14 +10,6 @@
   </li>
   
   <li>
-    Cocos Helper Integration
-    <ul>
-      <li>C++ - coming soon</li>
-      <li>JavaScript - coming soon</li>
-    </ul>
-  </li>
-  
-  <li>
     Scene Creation
     <ul>
       <li>C++ - coming soon</li>
