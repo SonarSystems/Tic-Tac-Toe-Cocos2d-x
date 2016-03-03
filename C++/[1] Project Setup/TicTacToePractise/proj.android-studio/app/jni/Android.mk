@@ -12,7 +12,9 @@ LOCAL_MODULE_FILENAME := libcocos2dcpp
 
 LOCAL_SRC_FILES := hellocpp/main.cpp \
                    ../../../Classes/AppDelegate.cpp \
-                   ../../../Classes/SplashScene.cpp
+                   ../../../Classes/SplashScene.cpp \
+                   ../../../Classes/SonarCocosHelper/SonarFrameworks.cpp \
+
 
 LOCAL_C_INCLUDES := $(LOCAL_PATH)/../../../Classes
 
