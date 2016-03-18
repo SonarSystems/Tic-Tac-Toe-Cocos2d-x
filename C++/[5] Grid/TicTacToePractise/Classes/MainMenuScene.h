@@ -1,5 +1,4 @@
-#ifndef __MAINMENUSCENE_SCENE_H__
-#define __MAINMENUSCENE_SCENE_H__
+#pragma once
 
 #include "cocos2d.h"
 
@@ -28,5 +27,3 @@ private:
     void touchEvent( Ref *sender, Widget::TouchEventType type );
 
 };
-
-#endif // __MAINMENUSCENE_SCENE_H__

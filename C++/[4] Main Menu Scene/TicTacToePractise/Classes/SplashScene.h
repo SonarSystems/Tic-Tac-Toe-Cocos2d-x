@@ -1,5 +1,4 @@
-#ifndef __SPLASHSCENE_SCENE_H__
-#define __SPLASHSCENE_SCENE_H__
+#pragma once
 
 #include "cocos2d.h"
 
@@ -21,4 +20,3 @@ private:
     
 };
 
-#endif // __SPLASHSCENE_SCENE_H__

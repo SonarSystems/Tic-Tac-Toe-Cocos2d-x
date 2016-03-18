@@ -1,5 +1,4 @@
-#ifndef __DEFINITIONS_SCENE_H__
-#define __DEFINITIONS_SCENE_H__
+#pragma once
 
 #define SCENE_TRANSITION_TIME 1.0f
 #define SPLASH_SCENE_SHOW_TIME 3.0f
@@ -24,4 +23,3 @@
 #define TAG_MAIN_MENU_PLAY_BUTTON 0
 #define TAG_ACHIEVEMENTS_BUTTON 1
 
-#endif // __DEFINITIONS_SCENE_H__

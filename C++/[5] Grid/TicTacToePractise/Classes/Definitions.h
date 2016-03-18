@@ -1,5 +1,4 @@
-#ifndef __DEFINITIONS_SCENE_H__
-#define __DEFINITIONS_SCENE_H__
+#pragma once
 
 #define SCENE_TRANSITION_TIME 1.0f
 #define SPLASH_SCENE_SHOW_TIME 3.0f
@@ -43,5 +42,3 @@
 #define STATE_PLACING_PIECE 94
 
 #define PIECE_FADE_IN_TIME 0.5
-
-#endif // __DEFINITIONS_SCENE_H__

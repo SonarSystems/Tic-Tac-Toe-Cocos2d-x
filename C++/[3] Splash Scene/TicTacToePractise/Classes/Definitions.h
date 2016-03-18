@@ -1,10 +1,7 @@
-#ifndef __DEFINITIONS_SCENE_H__
-#define __DEFINITIONS_SCENE_H__
+#pragma once
 
 #define SCENE_TRANSITION_TIME 1.0f
 #define SPLASH_SCENE_SHOW_TIME 3.0f
 
 
 #define SPLASH_SCENE_BACKGROUND_FILEPATH "res/Splash Background.png"
-
-#endif // __DEFINITIONS_SCENE_H__
